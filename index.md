@@ -1,17 +1,61 @@
-# JesData — Tutoriales de Microsoft Fabric
+---
+layout: default
+title: Inicio
+---
 
-Bienvenido al hub de tutoriales técnicos (no comerciales) de JesData.  
-Explorá por tema:
+<link rel="stylesheet" href="/assets/css/custom.css">
 
-## Fundamentos
-- https://github.com/jesdata/fabric-fundamentos/tree/main/tutorials/01-que-es-fabric
-- https://github.com/jesdata/fabric-fundamentos/tree/main/tutorials/02-arquitectura
+<div class="hero">
+  <h1>JesData — Portal de Tutoriales</h1>
+  <p>
+    Recursos técnicos en español para aprender y aplicar buenas prácticas de 
+    <strong>Ingeniería de Datos</strong> y <strong>Microsoft Fabric</strong>.
+    Contenido con ejemplos, assets descargables y guías paso a paso.
+  </p>
+</div>
 
-## Data Engineering
-- https://github.com/jesdata/fabric-data-engineering/tree/main/tutorials/01-fundamentos-lakehouse
-- https://github.com/jesdata/fabric-data-engineering/tree/main/tutorials/02-ingesta-con-notebooks
-- https://github.com/jesdata/fabric-data-engineering/tree/main/tutorials/03-pipelines-y-orquestacion
+<div class="card-grid">
 
-## Power BI
-- https://github.com/jesdata/fabric-power-bi/tree/main/tutorials/01-modelo-semantico
-- https://github.com/jesdata/fabric-power-bi/tree/main/tutorials/02-metricas-kpi
+  <!-- Ingeniería de Datos -->
+  <div class="card">
+    <div class="icon">DE</div>
+    <h3>Ingeniería de Datos</h3>
+    <p>
+      Fundamentos, ingesta, procesamiento, orquestación y gobierno de datos. 
+      Tutoriales prácticos con datasets de ejemplo.
+    </p>
+    <div class="btn-row">
+      <a class="btn primary" href="https://github.com/jesdata/ingenieria-de-datos" target="_blank" rel="noopener">Ir al repositorio</a>
+      <a class="btn" href="https://jesdata.github.io/ingenieria-de-datos" target="_blank" rel="noopener">Abrir la documentación</a>
+    </div>
+    <div class="section-title">Enlaces rápidos</div>
+    <div class="quick-links">
+      <a href="https://github.com/jesdata/ingenieria-de-datos/tree/main/tutorials" target="_blank" rel="noopener">Tutoriales</a>
+      <a href="https://github.com/jesdata/ingenieria-de-datos/tree/main/tutorials/01-fundamentos" target="_blank" rel="noopener">Fundamentos</a>
+      <a href="https://github.com/jesdata/ingenieria-de-datos/tree/main/tutorials/02-orquestacion" target="_blank" rel="noopener">Orquestación</a>
+    </div>
+  </div>
+
+  <!-- Microsoft Fabric -->
+  <div class="card">
+    <div class="icon">FB</div>
+    <h3>Microsoft Fabric</h3>
+    <p>
+      Lakehouse, Data Warehouse, Notebooks, Pipelines, Power BI, Real-Time Analytics y gobierno.
+    </p>
+    <div class="btn-row">
+      <a class="btn primary" href="https://github.com/jesdata/microsoft-fabric" target="_blank" rel="noopener">Ir al repositorio</a>
+      <a class="btn" href="https://jesdata.github.io/microsoft-fabric" target="_blank" rel="noopener">Abrir la documentación</a>
+    </div>
+    <div class="section-title">Enlaces rápidos</div>
+    <div class="quick-links">
+      <a href="https://github.com/jesdata/microsoft-fabric/tree/main/tutorials" target="_blank" rel="noopener">Tutoriales</a>
+      <a href="https://github.com/jesdata/microsoft-fabric/tree/main/tutorials/01-que-es-fabric" target="_blank" rel="noopener">¿Qué es Fabric?</a>
+      <a href="https://github.com/jesdata/microsoft-fabric/tree/main/tutorials/02-lakehouse" target="_blank" rel="noopener">Lakehouse</a>
+    </div>
+  </div>
+
+</div>
+
+> ¿Buscás algo puntual? Abrí un issue o escribime y lo sumo al roadmap.
+``
