@@ -28,12 +28,6 @@ title: Inicio
       <a class="btn primary" href="https://github.com/jesdata/ingenieria-de-datos" target="_blank" rel="noopener">Ir al repositorio</a>
       <a class="btn" href="https://jesdata.github.io/ingenieria-de-datos" target="_blank" rel="noopener">Abrir la documentación</a>
     </div>
-    <div class="section-title">Enlaces rápidos</div>
-    <div class="quick-links">
-      <a href="https://github.com/jesdata/ingenieria-de-datos/tree/main/tutorials" target="_blank" rel="noopener">Tutoriales</a>
-      <a href="https://github.com/jesdata/ingenieria-de-datos/tree/main/tutorials/01-fundamentos" target="_blank" rel="noopener">Fundamentos</a>
-      <a href="https://github.com/jesdata/ingenieria-de-datos/tree/main/tutorials/02-orquestacion" target="_blank" rel="noopener">Orquestación</a>
-    </div>
   </div>
 
   <!-- Microsoft Fabric -->
@@ -47,15 +41,8 @@ title: Inicio
       <a class="btn primary" href="https://github.com/jesdata/microsoft-fabric" target="_blank" rel="noopener">Ir al repositorio</a>
       <a class="btn" href="https://jesdata.github.io/microsoft-fabric" target="_blank" rel="noopener">Abrir la documentación</a>
     </div>
-    <div class="section-title">Enlaces rápidos</div>
-    <div class="quick-links">
-      <a href="https://github.com/jesdata/microsoft-fabric/tree/main/tutorials" target="_blank" rel="noopener">Tutoriales</a>
-      <a href="https://github.com/jesdata/microsoft-fabric/tree/main/tutorials/01-que-es-fabric" target="_blank" rel="noopener">¿Qué es Fabric?</a>
-      <a href="https://github.com/jesdata/microsoft-fabric/tree/main/tutorials/02-lakehouse" target="_blank" rel="noopener">Lakehouse</a>
-    </div>
   </div>
 
 </div>
 
 > ¿Buscás algo puntual? Abrí un issue o escribime y lo sumo al roadmap.
-``
