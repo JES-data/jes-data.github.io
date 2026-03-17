@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 
-/assets/css/custom.css
+<link rel="stylesheet" href="/assets/css/custom.css">
 
 <div class="hero">
   <h1>JesData — Portal de Tutoriales</h1>
