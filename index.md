@@ -45,5 +45,3 @@ title: Inicio
 
 </div>
 
-> ¿Buscás algo puntual? Abrí un issue o escribime y lo sumo al roadmap.
-``
