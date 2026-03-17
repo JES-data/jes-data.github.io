@@ -1,0 +1,18 @@
+title: JesData — Portal de Tutoriales
+description: Documentación técnica en español sobre Ingeniería de Datos y Microsoft Fabric.
+theme: just-the-docs
+
+# Ajustá si usás dominio propio
+url: https://jesdata.github.io
+
+# Landing sin barra lateral ni buscador (podés activarlos si querés)
+nav_enabled: false
+search_enabled: false
+color_scheme: light
+
+# (Opcional) Logo en la barra
+# logo: /assets/img/logo-jesdata.png
+
+# SEO básico
+plugins:
+  - jekyll-seo-tag
