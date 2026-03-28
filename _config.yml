@@ -1,7 +1,7 @@
 title: JesData — Tutoriales
 description: Portal de tutoriales técnicos sobre Ingeniería de Datos y Microsoft Fabric
 
-# USAR REMOTE THEME (CLAVE)
+# Usar Just the Docs como remote theme (OBLIGATORIO en GitHub Pages)
 remote_theme: just-the-docs/just-the-docs
 
 url: https://jes-data.github.io
