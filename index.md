@@ -20,11 +20,15 @@ title: Inicio
     <h3>Ingeniería de Datos</h3>
     <p>
       Fundamentos, arquitecturas, ingesta, procesamiento y orquestación de datos.
-      Contenido independiente de herramienta.
+      Contenido independiente de la herramienta.
     </p>
     <div class="btn-row">
-      https://jesdata.github.io/ingenieria-de-datosAbrir documentación</a>
-      https://github.com/jesdata/ingenieria-de-datosVer repositorio</a>
+      <a class="btn primary" href="https://jesdata.github.io/ingenieria-de-datos">
+        Abrir documentación
+      </a>
+      <a class="btn" href="https://github.com/jesdata/ingenieria-de-datos">
+        Ver repositorio
+      </a>
     </div>
   </div>
 
@@ -34,11 +38,15 @@ title: Inicio
     <h3>Microsoft Fabric</h3>
     <p>
       Lakehouse, Data Warehouse, Pipelines, Notebooks, Power BI
-      y gobierno de datos en Fabric.
+      y gobierno de datos en Microsoft Fabric.
     </p>
     <div class="btn-row">
-      https://jesdata.github.io/microsoft-fabricAbrir documentación</a>
-      https://github.com/jesdata/microsoft-fabricVer repositorio</a>
+      <a class="btn primary" href="https://jesdata.github.io/microsoft-fabric">
+        Abrir documentación
+      </a>
+      <a class="btn" href="https://github.com/jesdata/microsoft-fabric">
+        Ver repositorio
+      </a>
     </div>
   </div>
 
